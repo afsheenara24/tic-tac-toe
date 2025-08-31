@@ -16,17 +16,17 @@ Win, draw, and reset functionality
 
 Play the game online: [Tic-Tac-Toe Game](https://afsheenara24.github.io/tic-tac-toe/)
 
-![Screenshot](tic-tac-toe.png)
+![Screenshot](Tic-tac-toe.png)
 
 ## 🛠️ How to Play
 
--Player 1 chooses X, Player 2 chooses O.
--Players click on empty cells to place their mark.
--The game checks for a win or draw after each move.
--Use the Reset button to start a new game.
+- Player 1 chooses X, Player 2 chooses O.
+- Players click on empty cells to place their mark.
+- The game checks for a win or draw after each move.
+- Use the Reset button to start a new game.
 
 ## 🎨 Technologies Used
 
--HTML5
--CSS3
--JavaScript (ES6)
+- HTML5
+- CSS3
+- JavaScript (ES6)

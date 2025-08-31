@@ -4,13 +4,13 @@ Tic-Tac-Toe is a classic two-player game built with HTML, CSS, and JavaScript. P
 
 ## 🌟 Features
 
-Two-player gameplay (X vs O)
+- Two-player gameplay (X vs O)
 
-Simple and responsive UI
+- Simple and responsive UI
 
-Interactive game board
+- Interactive game board
 
-Win, draw, and reset functionality
+- Win, draw, and reset functionality
 
 ## 🎮 Live Demo
 
@@ -21,8 +21,11 @@ Play the game online: [Tic-Tac-Toe Game](https://afsheenara24.github.io/tic-tac-
 ## 🛠️ How to Play
 
 - Player 1 chooses X, Player 2 chooses O.
+  
 - Players click on empty cells to place their mark.
+  
 - The game checks for a win or draw after each move.
+  
 - Use the Reset button to start a new game.
 
 ## 🎨 Technologies Used
